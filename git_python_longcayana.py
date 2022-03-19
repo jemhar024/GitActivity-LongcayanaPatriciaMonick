@@ -1,3 +1,6 @@
 print("Patricia MOnick Longcayana")
 print("PAye mogpog marinduque")
 print("November 20 2001")
+print("college of engineering information technology and industrial technology")
+print("bachelor of science in information technology")
+print("BSIT2D")
